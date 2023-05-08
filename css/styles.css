@@ -142,7 +142,7 @@ article.presentacion{
 article.hablemos{
     width: 100%;
     text-align: center;
-    background-color: #fdbdef;
+    background-color: rgba(175, 89, 158, 0.3);
     border-radius: 5px;
     padding: 20px 20px;
     
@@ -168,9 +168,10 @@ a.btn{
 footer{
     background-color: #af599e;
     padding: 40px;
-    
-    
+    color: #fbfbfb;
+    font-size: 28px;
 }    
+
 /* Recomendaciones! 
 *  - Comenzar desde lo más general y luego ir hacia lo mas específico, asignando primero
 *    "estilos generales". Una buena idea sería comenzar por el <body> ;)
